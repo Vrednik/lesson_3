@@ -1,0 +1,52 @@
+a{
+    color: teal;
+}
+
+p{
+    color: khaki;
+}
+
+span{
+    color: maroon;
+}
+
+.text{
+    color: olive;
+}
+
+.main{
+    color: plum;
+}
+
+.main h1{
+color: orangered;
+}
+
+div{
+    color: orchid;
+}
+
+.text__history.text__info{
+    color: salmon;
+}
+
+.text__info h2{
+    color: slateblue;
+}
+
+p span{
+    color: yellow;
+}
+
+[class*="text__"]{
+    color: tomato;
+}
+
+.text__history > p{
+    color: sienna;
+}
+
+.text__info .list{
+    color: black;
+}
+
